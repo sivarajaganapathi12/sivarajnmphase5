@@ -1,0 +1,4 @@
+:root{--bg:#f1f5f9;--card:#ffffff;--muted:#64748b;--accent:#2563eb}
+*{box-sizing:border-box}html,body,#root{height:100%}body{margin:0;font-family:Inter,system-ui,Arial,sans-serif;background:var(--bg);color:#0f172a;padding:16px}
+button{cursor:pointer}input,select,button{font:inherit}
+.bg-white{background:var(--card)}.rounded{border-radius:8px}.p-2{padding:8px}.p-4{padding:16px}.p-6{padding:24px}.shadow{box-shadow:0 6px 18px rgba(2,6,23,0.06)}.font-sans{font-family:Inter,system-ui,Arial,sans-serif}.text-sm{font-size:0.9rem}.text-2xl{font-size:1.25rem}.mt-6{margin-top:24px}.flex{display:flex}.items-center{align-items:center}.gap-2{gap:8px}.gap-3{gap:12px}.gap-4{gap:16px}.max-w-md{max-width:720px;margin-left:auto;margin-right:auto}.grid{display:grid}.lg\:grid-cols-3{grid-template-columns:repeat(3,1fr)}@media (max-width:800px){.lg\:grid-cols-3{grid-template-columns:1fr}}
