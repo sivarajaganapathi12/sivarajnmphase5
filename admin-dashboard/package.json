@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://sivarajaganapathi12.github.io/sivarajnmphase5/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -30,4 +31,6 @@
     "tailwindcss": "^4.1.16",
     "vite": "^7.1.7"
   }
+
 }
+
